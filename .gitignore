@@ -1,3 +1,6 @@
 /data/
 /test_purch/
 /train_purch/
+client_test.csv
+client_train.csv
+/predict/
